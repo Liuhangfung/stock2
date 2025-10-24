@@ -28,7 +28,7 @@ output/
 stock_prices_cache.json
 test_cache.json
 
-# Environment variables
+# Environment variables (NEVER COMMIT THESE!)
 .env
 *.env
 
